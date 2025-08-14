@@ -3,7 +3,7 @@ const About= () => {
   return (
     <div className="about-page">
       <div className="about-content">
-        <h1>About Our Project</h1>
+        <h1>About Our Project 1</h1>
         <p>This is a modern React application built with the latest technologies.</p>
         
         <div className="tech-stack">
